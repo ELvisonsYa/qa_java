@@ -1,2 +1,4 @@
 # qa_java
-QA Java Project
+QA Java Project 
+
+6 спринт 
